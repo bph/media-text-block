@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.3" created="2025-10-21 22:21" -->
+	<!-- generator="WordPress/6.8.3" created="2025-10-21 22:40" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>test-media-text-container</title>
 	<link>http://localhost:8888</link>
 	<description></description>
-	<pubDate>Tue, 21 Oct 2025 22:21:18 +0000</pubDate>
+	<pubDate>Tue, 21 Oct 2025 22:40:38 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost:8888</wp:base_site_url>
@@ -75,8 +75,8 @@
 <h2 class="wp-block-heading">Media + Text block </h2>
 <!-- /wp:heading -->
 
-<!-- wp:media-text {"align":"wide","mediaId":8,"mediaLink":"http://localhost:8888/2025/10/21/hello-world/markus-spiske-c0koz3g1i4i-unsplash-web/","mediaType":"image","mediaSizeSlug":"full","imageFill":true} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill-element"><figure class="wp-block-media-text__media"><img src="http://localhost:8888/wp-content/uploads/2025/10/markus-spiske-C0koz3G1I4I-unsplash-web.webp" alt="" class="wp-image-8 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"medium"} -->
+<!-- wp:media-text {"align":"wide","mediaId":12,"mediaLink":"http://localhost:8888/blocks/","mediaType":"image","mediaSizeSlug":"full","imageFill":true} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill-element"><figure class="wp-block-media-text__media"><img src="http://localhost:8888/wp-content/uploads/2025/10/blocks-1024x683.webp" alt="" class="wp-image-12 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"medium"} -->
 <p class="has-medium-font-size">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis tincidunt risus, luctus rhoncus neque. Donec maximus lorem ipsum, id sodales nisl condimentum vel. Nullam sit amet convallis lectus. Nulla nisi tellus, dignissim nec dui vehicula, placerat rutrum arcu. Phasellus viverra mattis ex, eget luctus ex aliquam id. Duis non sapien ultricies, luctus dui sit amet, malesuada urna. Vestibulum vitae pretium mauris.</p>
 <!-- /wp:paragraph -->
 
@@ -85,17 +85,17 @@
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
 
-<!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":8,"mediaLink":"http://localhost:8888/2025/10/21/hello-world/markus-spiske-c0koz3g1i4i-unsplash-web/","mediaType":"image","mediaSizeSlug":"full","imageFill":true} -->
+<!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":12,"mediaLink":"http://localhost:8888/blocks/","mediaType":"image","mediaSizeSlug":"full","imageFill":true} -->
 <div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-image-fill-element"><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"medium"} -->
 <p class="has-medium-font-size">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis tincidunt risus, luctus rhoncus neque. Donec maximus lorem ipsum, id sodales nisl condimentum vel. Nullam sit amet convallis lectus. Nulla nisi tellus, dignissim nec dui vehicula, placerat rutrum arcu. Phasellus viverra mattis ex, eget luctus ex aliquam id. Duis non sapien ultricies, luctus dui sit amet, malesuada urna. Vestibulum vitae pretium mauris.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"placeholder":"Content…","fontSize":"medium"} -->
 <p class="has-medium-font-size">Aenean pellentesque accumsan eros. Duis sit amet nibh nec mauris aliquet ultricies. Nullam gravida sapien felis, vel aliquam tortor aliquam eget. Curabitur semper tincidunt mollis. In hac habitasse platea dictumst. Integer imperdiet vel ipsum vel luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis dignissim, turpis eu ornare laoreet, enim metus elementum est, vitae placerat lacus ligula eu purus. Maecenas elementum nunc et lectus mollis, et pellentesque tortor rhoncus. Aenean scelerisque nunc est.</p>
-<!-- /wp:paragraph --></div><figure class="wp-block-media-text__media"><img src="http://localhost:8888/wp-content/uploads/2025/10/markus-spiske-C0koz3G1I4I-unsplash-web.webp" alt="" class="wp-image-8 size-full" style="object-position:50% 50%"/></figure></div>
+<!-- /wp:paragraph --></div><figure class="wp-block-media-text__media"><img src="http://localhost:8888/wp-content/uploads/2025/10/blocks-1024x683.webp" alt="" class="wp-image-12 size-full" style="object-position:50% 50%"/></figure></div>
 <!-- /wp:media-text -->
 
-<!-- wp:group {"align":"wide","style":{"background":{"backgroundImage":{"url":"http://localhost:8888/wp-content/uploads/2025/10/Mt.-Hood-scaled.jpg","id":9,"source":"file","title":"Mt. Hood"},"backgroundSize":"cover","backgroundAttachment":"fixed","backgroundPosition":"74% 62%"}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"align":"wide","style":{"background":{"backgroundImage":{"url":"http://localhost:8888/wp-content/uploads/2025/10/Mt-Hood-scaled.jpg","id":11,"source":"file","title":"Mt-Hood"},"backgroundSize":"cover","backgroundAttachment":"fixed"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-5"}}},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}},"backgroundColor":"accent-6","textColor":"accent-5"} -->
 <div class="wp-block-column has-accent-5-color has-accent-6-background-color has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--30)"><!-- wp:paragraph -->
@@ -122,8 +122,8 @@
 		<wp:post_id>1</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-21 22:07:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-21 22:07:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-21 22:19:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-21 22:19:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 22:40:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 22:40:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
@@ -347,69 +347,69 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 										<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
 						</item>
 					<item>
-		<title><![CDATA[markus-spiske-C0koz3G1I4I-unsplash-web]]></title>
-		<link>http://localhost:8888/2025/10/21/hello-world/markus-spiske-c0koz3g1i4i-unsplash-web/</link>
-		<pubDate>Tue, 21 Oct 2025 22:09:23 +0000</pubDate>
+		<title><![CDATA[Mt-Hood]]></title>
+		<link>http://localhost:8888/mt-hood/</link>
+		<pubDate>Tue, 21 Oct 2025 22:39:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wp-content/uploads/2025/10/markus-spiske-C0koz3G1I4I-unsplash-web.webp</guid>
+		<guid isPermaLink="false">http://localhost:8888/wp-content/uploads/2025/10/Mt-Hood.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-21 22:09:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-21 22:09:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-21 22:09:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-21 22:09:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[markus-spiske-c0koz3g1i4i-unsplash-web]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/wp-content/uploads/2025/10/markus-spiske-C0koz3G1I4I-unsplash-web.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/10/markus-spiske-C0koz3G1I4I-unsplash-web.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:51:"2025/10/markus-spiske-C0koz3G1I4I-unsplash-web.webp";s:8:"filesize";i:48884;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:51:"markus-spiske-C0koz3G1I4I-unsplash-web-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14830;}s:5:"large";a:5:{s:4:"file";s:52:"markus-spiske-C0koz3G1I4I-unsplash-web-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:67754;}s:9:"thumbnail";a:5:{s:4:"file";s:51:"markus-spiske-C0koz3G1I4I-unsplash-web-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7210;}s:12:"medium_large";a:5:{s:4:"file";s:51:"markus-spiske-C0koz3G1I4I-unsplash-web-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:48762;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Mt. Hood]]></title>
-		<link>http://localhost:8888/2025/10/21/hello-world/mt-hood/</link>
-		<pubDate>Tue, 21 Oct 2025 22:17:51 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wp-content/uploads/2025/10/Mt.-Hood.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-21 22:17:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-21 22:17:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-21 22:17:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-21 22:17:51]]></wp:post_modified_gmt>
+		<wp:post_id>11</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-21 22:39:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-21 22:39:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 22:39:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 22:39:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mt-hood]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/wp-content/uploads/2025/10/Mt.-Hood-scaled.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://localhost:8888/wp-content/uploads/2025/10/Mt-Hood-scaled.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/10/Mt.-Hood-scaled.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2025/10/Mt-Hood-scaled.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:2560;s:6:"height";i:1440;s:4:"file";s:27:"2025/10/Mt.-Hood-scaled.jpg";s:8:"filesize";i:169455;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:20:"Mt.-Hood-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5296;}s:5:"large";a:5:{s:4:"file";s:21:"Mt.-Hood-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37406;}s:9:"thumbnail";a:5:{s:4:"file";s:20:"Mt.-Hood-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3054;}s:12:"medium_large";a:5:{s:4:"file";s:20:"Mt.-Hood-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23234;}s:9:"1536x1536";a:5:{s:4:"file";s:21:"Mt.-Hood-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73526;}s:9:"2048x2048";a:5:{s:4:"file";s:22:"Mt.-Hood-2048x1152.jpg";s:5:"width";i:2048;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:117939;}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"1.68";s:6:"credit";s:0:"";s:6:"camera";s:14:"Pixel 9 Pro XL";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1755972872";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"6.9";s:3:"iso";s:2:"21";s:13:"shutter_speed";s:8:"0.000865";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}s:14:"original_image";s:12:"Mt.-Hood.jpg";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:2560;s:6:"height";i:1440;s:4:"file";s:26:"2025/10/Mt-Hood-scaled.jpg";s:8:"filesize";i:169455;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:19:"Mt-Hood-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5296;}s:5:"large";a:5:{s:4:"file";s:20:"Mt-Hood-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37406;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"Mt-Hood-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3054;}s:12:"medium_large";a:5:{s:4:"file";s:19:"Mt-Hood-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23234;}s:9:"1536x1536";a:5:{s:4:"file";s:20:"Mt-Hood-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73526;}s:9:"2048x2048";a:5:{s:4:"file";s:21:"Mt-Hood-2048x1152.jpg";s:5:"width";i:2048;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:117939;}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"1.68";s:6:"credit";s:0:"";s:6:"camera";s:14:"Pixel 9 Pro XL";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1755972872";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"6.9";s:3:"iso";s:2:"21";s:13:"shutter_speed";s:8:"0.000865";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}s:14:"original_image";s:11:"Mt-Hood.jpg";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[blocks]]></title>
+		<link>http://localhost:8888/blocks/</link>
+		<pubDate>Tue, 21 Oct 2025 22:39:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/wp-content/uploads/2025/10/blocks.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-21 22:39:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-21 22:39:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 22:39:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 22:39:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blocks]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/wp-content/uploads/2025/10/blocks.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/10/blocks.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:19:"2025/10/blocks.webp";s:8:"filesize";i:48884;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:19:"blocks-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14830;}s:5:"large";a:5:{s:4:"file";s:20:"blocks-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:67754;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"blocks-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7210;}s:12:"medium_large";a:5:{s:4:"file";s:19:"blocks-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:48762;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
