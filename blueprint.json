@@ -1,0 +1,13 @@
+{
+     "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+     "login":true,
+     "steps":[
+        {
+      "step": "importWxr",
+			"file": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/bph/medi-text/main/content-test.xml"
+			}
+    }
+     ]
+}
