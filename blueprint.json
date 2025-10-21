@@ -6,7 +6,7 @@
       "step": "importWxr",
 			"file": {
 				"resource": "url",
-				"url": "https://raw.githubusercontent.com/bph/medi-text/main/content-test.xml"
+				"url": "https://raw.githubusercontent.com/bph/media-text-block/main/content-test.xml"
 			}
     }
      ]
