@@ -369,7 +369,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/wp-content/uploads/2025/10/Mt-Hood-scaled.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/bph/media-text-block/main/media/Mt-Hood.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/10/Mt-Hood-scaled.jpg]]></wp:meta_value>
@@ -402,7 +402,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/wp-content/uploads/2025/10/blocks.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/bph/media-text-block/main/media/blocks.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/10/blocks.webp]]></wp:meta_value>
